@@ -1,1 +1,1 @@
-cmd net user DefaultAccount /active:yes
+cmd net user Administrator /active:yes

@@ -1,1 +1,1 @@
-cmd net user Administrator /active:yes
+cmd net user DefaultAccount meow
